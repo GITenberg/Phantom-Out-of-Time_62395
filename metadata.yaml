@@ -1,0 +1,41 @@
+_repo: Phantom-Out-of-Time_62395
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rubimor
+    alias: Moreira, Ruben
+    birthdate: 1922
+    deathdate: 1984
+    gutenberg_agent_id: '51932'
+    url: http://www.gutenberg.org/2009/agents/51932
+    wikipedia: https://en.wikipedia.org/wiki/Ruben_Moreira
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Danzell, George
+    - Bond, Nelson
+    - Bond, Nelson Slade
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Revolutions -- Fiction'
+- !lcsh 'Teleportation -- Fiction'
+- GITenberg
+title: Phantom Out of Time
+url: http://www.gutenberg.org/ebooks/62395
